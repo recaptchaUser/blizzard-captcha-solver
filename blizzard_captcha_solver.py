@@ -10,7 +10,7 @@ def solve_funcaptcha_blizzard():
         "websiteURL": "https://eu.account.battle.net",
         "websitePublicKey": "CF5C61EE-F062-45DF-A32F-E9398E2B4E0D",
         "funcaptchaApiJSSubdomain": "https://blizzard-api.arkoselabs.com"
-        "
+        
     })
     return solution
 
